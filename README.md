@@ -1,5 +1,5 @@
 # SE-Uproar-Game
-1. Save the attached zip folder to your computer and unzip it.
+1. Save the 5 folders to your computer and unzip it (MonoBleedingEdge, Uproar Master Project 1_Data, UnityCrashHandler32, UnityPlayer.dll, Uproar Master Project 1).
 2. Open the folder in your files and double click on the file titled, “Uproar Master Project 1”.
 3. Once the game launches, the main menu UI will appear with a start button. Click the button with your mouse.
 4. This will transition to the character/map select scene. Player 1 uses the keys A and D to change characters, while Player 2 uses the left and right arrow keys. In order to change the map, use the R key. Once Player 1 and Player 2 have selected their chosen characters and agreed on a map, click the start button with your mouse.
